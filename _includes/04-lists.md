@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Takoyaki
+2. Waffles
+3. Sushi
